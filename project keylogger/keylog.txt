@@ -1,0 +1,1 @@
+Key.enterKey.backspaceKey.ctrl_r\x03Key.ctrl_r\x16Key.enterKey.ctrl_lKey.ctrl_l\x13Key.ctrl_r\x03Key.ctrl_r\x16Key.enterKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceprojectKey.spacekeyloggerKey.entererKey.enter
